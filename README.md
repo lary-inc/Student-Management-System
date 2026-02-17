@@ -8,5 +8,4 @@ A simple Java-based Student Management System demonstrating OOP principles such 
 - Abstraction
 
 ## How to Run
-Open the project in NetBeans and run SystemLauncher.java
-
+Open the project in any IDE that supports JAVA e.g., NetBeans and run SystemLauncher.java
